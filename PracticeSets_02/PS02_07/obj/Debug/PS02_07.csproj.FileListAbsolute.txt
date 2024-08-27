@@ -1,0 +1,7 @@
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\obj\Debug\PS02_07.csproj.AssemblyReference.cache
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\obj\Debug\PS02_07.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\bin\Debug\PS02_02.exe.config
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\bin\Debug\PS02_02.exe
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\bin\Debug\PS02_02.pdb
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\obj\Debug\PS02_02.exe
+C:\Users\joel\Desktop\alllaweaw\Practice02\PracticeSets_02\PS02_07\obj\Debug\PS02_02.pdb
